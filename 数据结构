@@ -1,0 +1,14 @@
+print(2/2)
+print(2//2)
+print(2**3)
+
+print(range(12))
+
+
+def judge_null():
+    """ 判断是否为空 """
+    pass
+
+
+print(judge_null.__doc__)
+
